@@ -75,7 +75,7 @@ const ticketsController = (function(){
 
 
     /**
-     * Helper
+     * Local Helper
     */
 
     obj.getTime = function (){
